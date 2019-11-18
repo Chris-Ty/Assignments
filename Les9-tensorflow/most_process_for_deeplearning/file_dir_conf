@@ -1,0 +1,3 @@
+data_root:/Users/zhengtianyu/Documents/Cris-Mac/EntryTest/Lecture/Lesson9-8.30/
+train_filename : notMNIST_large.tar.gz
+test_filename : notMNIST_Small.tar.gz
